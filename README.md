@@ -8,6 +8,8 @@ that as a Text block in the .blend file. The end user can run the script, which 
 from the `blender_assets.cats.txt` in the .blend file into the existing `blender_assets.cats.txt` and into the
 Asset Library.
 
+_This is not a Blender addon or standalone script. It is meant to be included in asset .blend files you distribute._
+
 ## To Use (as the asset creator)
 
 1. Mark your Assets
