@@ -3,10 +3,9 @@
 https://github.com/SuperFLEB/blender_asset_catalog_installer
 
 This is a script you can add to your asset files to allow "installing" asset catalogs to users' Asset Library. The asset
-creator can set up the Asset Catalog structure in the file, which creating a `blender_assets.cats.txt` file, then append
-that as a Text block in the .blend file. The end user can run the script, which will add the Catalog definitions
-from the `blender_assets.cats.txt` in the .blend file into the existing `blender_assets.cats.txt` and into the
-Asset Library.
+creator can set up the Asset Catalog structure in the file, which creates a `blender_assets.cats.txt` file, then append
+that as a Text block in the .blend file. When the end user runs the included script, the Catalog definitions
+from the `blender_assets.cats.txt` in the .blend file will be added into the user's own Asset Library.
 
 _This is not a Blender addon or standalone script. It is meant to be included in asset .blend files you distribute._
 
